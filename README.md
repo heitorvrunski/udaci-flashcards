@@ -10,7 +10,7 @@ clone the repo - https://github.com/heitorvrunski/udaci-flashcards.git
 
 change directory - cd udaci-flashcards
 
-install dependencies - npm install
+install dependencies - npm install or yarn install
 
 start dev server - expo start or yarn start / npm start
 
